@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ооп лаба 4/1.0.0": {
+        "runtime": {
+          "ооп лаба 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ооп лаба 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
