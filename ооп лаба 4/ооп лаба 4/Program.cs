@@ -1,20 +1,21 @@
 ﻿using System.Net;
 
-class Animal
+class Student
 {
-    private string kind = "Кот";
-    private int age = 6;
-    public string Name { get; set; } = "Мурзик";
+    private string name = "Светлана Добрынина";
+    private int age;
+    private string university = "Политех";
 
-    public string Kind
+
+    public string Name
     {
         get
         {
-            return kind;
+            return name;
         }
         set
         {
-            kind = value;
+            name = value;
         }
     }
     public int Age
@@ -29,6 +30,17 @@ class Animal
             {
                 age = value;
             }
+        }
+    }
+    public string University
+    {
+        get
+        {
+            return university;
+        }
+        set
+        {
+            university = value;
         }
     }
 
@@ -49,7 +61,7 @@ class Animal
 
     public string GetInfo()
     {
-        return $"Имя: {Name}, Вид: {Kind}, Возраст: {Age}, Проверка: {Check}";
+        return $"Имя: {Name}, Возраст: {Age}, Университет: {University}, Проверка: {Check}";
     }
 
     public string GetInfo (bool includeIntProperty)
@@ -60,7 +72,7 @@ class Animal
         }
         else
         {
-            return $"Имя: {Name}, Вид: {Kind}, Проверка: {Check}";
+            return $"Имя: {Name}, Университет: {University}, Проверка: {Check}";
         }
     }
 }
@@ -71,9 +83,9 @@ namespace laba4
     {
         static void Main(string[] args)
         {
-            Animal animal = new Animal();
-            Console.WriteLine(animal.GetInfo());
-            Console.WriteLine(animal.GetInfo(false));
+            Student student = new Student();
+            Console.WriteLine(student.GetInfo());
+            Console.WriteLine(student.GetInfo(false));
         }
     }
 }
