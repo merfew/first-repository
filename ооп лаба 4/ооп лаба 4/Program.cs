@@ -65,6 +65,17 @@ class Animal
     }
 }
 
+class Add
+{
+    private static List<Animal> list = new List<Animal>();
+
+    public List<Animal> list1 = list;
+    public void add(Animal animal)
+    {
+        list.Add(animal);
+    }
+}
+
 namespace laba4
 {
     class Program
@@ -72,6 +83,8 @@ namespace laba4
         static void Main(string[] args)
         {
             Animal animal = new Animal();
+            Add add = new Add();
+            add.add(animal);
             Console.WriteLine(animal.GetInfo());
             Console.WriteLine(animal.GetInfo(false));
         }
