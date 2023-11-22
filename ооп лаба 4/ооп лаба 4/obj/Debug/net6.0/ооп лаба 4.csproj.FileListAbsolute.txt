@@ -13,6 +13,14 @@ C:\Users\g_dob\source\repos\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0
 C:\Users\g_dob\source\repos\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.pdb
 C:\Users\g_dob\source\repos\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.genruntimeconfig.cache
 C:\Users\g_dob\source\repos\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ref\ооп лаба 4.dll
+<<<<<<< HEAD
+=======
+C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.exe
+C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.deps.json
+C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.runtimeconfig.json
+C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.dll
+C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.pdb
+>>>>>>> first_branch
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.AssemblyInfoInputs.cache
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.AssemblyInfo.cs
@@ -20,10 +28,13 @@ C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\оо
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.dll
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\refint\ооп лаба 4.dll
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.pdb
+<<<<<<< HEAD
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.exe
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.deps.json
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.runtimeconfig.json
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.dll
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\bin\Debug\net6.0\ооп лаба 4.pdb
+=======
+>>>>>>> first_branch
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ооп лаба 4.genruntimeconfig.cache
 C:\Users\g_dob\OneDrive\Рабочий стол\ооп git\first-repository\ооп лаба 4\ооп лаба 4\obj\Debug\net6.0\ref\ооп лаба 4.dll
